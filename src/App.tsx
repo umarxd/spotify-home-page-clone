@@ -4,7 +4,7 @@ import Playlists from "./components/Playlists";
 function App() {
   return (
     <>
-      <div className="text-[#ffffff] w-1/4 p-2 flex flex-col">
+      <div className="text-white w-96 p-2 flex flex-col h-screen">
         <MainNav />
         <Playlists />
       </div>
